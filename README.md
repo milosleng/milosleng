@@ -1,6 +1,6 @@
 ### Hi there, I'm Milos. 👋👋👋
 
-## Front-end web-development student.
+## Front-end web-development enthusiast.
 
 - ☘️☘️☘️ I’m currently learning literally everything about Front-end web development 😃
 - 🧑‍🤝‍🧑 I’m looking to collaborate on real-world projects to gain more experience
