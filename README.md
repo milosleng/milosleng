@@ -5,7 +5,7 @@
 - ☘️☘️☘️ I’m currently learning literally everything about Front-end web development 😃
 - 🧑‍🤝‍🧑 I’m looking to collaborate on real-world projects to gain more experience
 - 🚀🚀🚀 2021 Goal: to build the quirkiest portfolio on Earth 👾👾👾
-- ⚡ Fun fact: I like to study cactuses 🌵🌵🌵
+- ⚡ Fun fact: Javascript is my first programming language.
 
 <br />
 
