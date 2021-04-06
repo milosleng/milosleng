@@ -7,10 +7,6 @@
 - 🚀🚀🚀 2021 Goal: to build the quirkiest portfolio on Earth 👾👾👾
 - ⚡ Fun fact: I do not have a blog, blog.
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@sv3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
@@ -18,4 +14,3 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/milos-leng-946a765b/
