@@ -2,7 +2,7 @@
 
 ## Front-end enthusiast. Former foreign-language teacher.
 
-- ☘️☘️☘️ I’m learning literally everything about Front-end web development 😃 Currently obsessed with HTML5 CANVAS 😃 
+- ☘️☘️☘️ I’m learning literally everything about Front-end web development 😃 Currently obsessed with HTML5 CANVAS and Javascript 😃 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on real-world projects to gain more experience
 - 🚀🚀🚀 2021 Goal: to build the quirkiest portfolio on Earth 👾👾👾
 - ⚡ Fun fact: I do not like avocado.
